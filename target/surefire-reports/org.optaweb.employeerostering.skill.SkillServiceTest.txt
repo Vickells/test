@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.optaweb.employeerostering.skill.SkillServiceTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.885 s - in org.optaweb.employeerostering.skill.SkillServiceTest

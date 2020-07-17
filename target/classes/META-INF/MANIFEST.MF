@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Implementation-Title: OptaWeb Employee Rostering as a Service Spring B
+ oot Backend
+Automatic-Module-Name: 
+Implementation-Version: 7.40.0-SNAPSHOT
+Java-Version: 1.8
+Built-By: Victor Sithole
+Scm-Connection: scm:git:https://github.com/kiegroup/droolsjbpm-build-b
+ ootstrap.git/optaweb-employee-rostering/optaweb-employee-rostering-ba
+ ckend
+Specification-Vendor: JBoss by Red Hat
+Os-Arch: amd64
+Specification-Title: OptaWeb Employee Rostering as a Service Spring Bo
+ ot Backend
+Implementation-Vendor-Id: org.optaweb.employeerostering
+Java-Vendor: Oracle Corporation
+Os-Name: Windows 10
+Scm-Url: https://github.com/kiegroup/droolsjbpm-build-bootstrap/optawe
+ b-employee-rostering/optaweb-employee-rostering-backend
+Implementation-Vendor: JBoss by Red Hat
+Os-Version: 10.0
+Scm-Revision: 
+Build-Jdk: 1.8.0_241
+Specification-Version: 7.40
+Created-By: Maven Integration for Eclipse
+Implementation-URL: https://www.optaplanner.org/optaweb-employee-roste
+ ring-backend
+
